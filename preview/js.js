@@ -109,4 +109,6 @@ options.colors = {
     background: 'red'
 };
 
+delete options.bool;
+
 console.log(options);
